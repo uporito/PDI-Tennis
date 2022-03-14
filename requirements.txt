@@ -25,3 +25,4 @@ stack-data==0.2.0
 tornado==6.1
 traitlets==5.1.1
 wcwidth==0.2.5
+voila==0.2.6
